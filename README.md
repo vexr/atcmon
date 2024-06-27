@@ -2,6 +2,8 @@
 
 atcmon is a lightweight monitoring script designed to help you monitor various Autonomy rewards and events. Key features include:
 
+<img src="https://tools.ssc.farm/wp-content/uploads/2024/06/atcmon.png" />
+
 - **Monitoring Capabilities**:
     - Rewards from block wins
     - Rewards from block votes
