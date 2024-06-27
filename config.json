@@ -1,16 +1,16 @@
 {
     "config": {
       "version": "0.1.0",
-  
+
       "farmer_log": "/home/$USER/Autonomys/farmer.log",
       "node_log": "/home/$USER/Autonomys/node.log",
       "dashboard_refresh_rate": 300
     },
-  
+
     "period": {
       "reward_period_1": "3 Hours",
       "reward_period_2": "12 Hours",
       "reward_period_3": "1 Day",
       "reward_period_4": "1 Month"
     }
-  }
+}

@@ -102,7 +102,7 @@ To configure the script, you need to edit the `config.json` file. Follow these s
 
 1.  **Open the `config.json` file**:
     
- Use your favorite text editor to open the `config.json` file. For example, you can use `nano` or `vim`.
+-   Use your favorite text editor to open the `config.json` file. For example, you can use `nano` or `vim`.
 
 2.  **Edit the Configuration Settings**:
 
@@ -142,7 +142,7 @@ Once the script is installed and set as executable, you can run it using the fol
 
 ## Dependencies Installation
 
-This script requires two dependencies: `bc` and `jq`. These dependencies will be automatically installed on the first run if they are not already present on your system.
+
 > [!IMPORTANT]
 > This script relies on two dependencies: `bc` and `jq`. They will be automatically installed during the first run if not already present on your system. You may be prompted for elevated permissions during this process.
 
